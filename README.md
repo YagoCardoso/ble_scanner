@@ -52,6 +52,13 @@ O BLE é ideal para aplicações onde os dispositivos precisam funcionar por lon
 3. **Exibição do Status e Reinicialização:**  
    Uma seção de status mostra, no topo da tela, se o Bluetooth, o GPS (serviço de localização) e as permissões estão ativos. Caso algum recurso não esteja ativo, o usuário pode reiniciar o app através do botão "Reiniciar App" para que o estado seja atualizado.
 
+## Captura de Tela
+
+Abaixo está uma captura de tela do app rodando em um device fisico(Android)
+
+![Captura de Tela do App](screen_app.jpeg)
+   
+
 ## Dependências
 
 Certifique-se de incluir as seguintes dependências no seu arquivo `pubspec.yaml`:
@@ -63,3 +70,9 @@ dependencies:
   flutter_blue_plus: ^1.35.3
   permission_handler: ^11.4.0
   flutter_phoenix: ^1.0.0
+
+
+
+
+
+
